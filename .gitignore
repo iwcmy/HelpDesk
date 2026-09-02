@@ -1,0 +1,18 @@
+# .NET
+backend/**/bin/
+backend/**/obj/
+*.user
+
+# Node / React
+frontend/**/node_modules/
+frontend/**/dist/
+frontend/**/build/
+
+# Entornos y secretos
+*.env
+appsettings.Development.json
+
+# Editor / SO
+.vs/
+.vscode/
+.DS_Store
